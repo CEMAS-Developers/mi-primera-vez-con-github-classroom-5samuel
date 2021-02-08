@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mi-primera-vez-con-github-classroom-5samuel/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mi-primera-vez-con-github-classroom-5samuel/static/js/main.57e29c62.chunk.js",
+    "main.js.map": "/mi-primera-vez-con-github-classroom-5samuel/static/js/main.57e29c62.chunk.js.map",
+    "runtime-main.js": "/mi-primera-vez-con-github-classroom-5samuel/static/js/runtime-main.d97ced43.js",
+    "runtime-main.js.map": "/mi-primera-vez-con-github-classroom-5samuel/static/js/runtime-main.d97ced43.js.map",
+    "static/js/2.efa91cb4.chunk.js": "/mi-primera-vez-con-github-classroom-5samuel/static/js/2.efa91cb4.chunk.js",
+    "static/js/2.efa91cb4.chunk.js.map": "/mi-primera-vez-con-github-classroom-5samuel/static/js/2.efa91cb4.chunk.js.map",
+    "static/js/3.9e307ab7.chunk.js": "/mi-primera-vez-con-github-classroom-5samuel/static/js/3.9e307ab7.chunk.js",
+    "static/js/3.9e307ab7.chunk.js.map": "/mi-primera-vez-con-github-classroom-5samuel/static/js/3.9e307ab7.chunk.js.map",
+    "index.html": "/mi-primera-vez-con-github-classroom-5samuel/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mi-primera-vez-con-github-classroom-5samuel/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.efa91cb4.chunk.js.LICENSE.txt": "/mi-primera-vez-con-github-classroom-5samuel/static/js/2.efa91cb4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mi-primera-vez-con-github-classroom-5samuel/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d97ced43.js",
+    "static/js/2.efa91cb4.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.57e29c62.chunk.js"
+  ]
+}
